@@ -1,4 +1,4 @@
-Makine ögrenmesi projesinde, veri seti üzerinde çalışarak verilerin 
+Makine ögrenmesi isimli projede, veri seti üzerinde çalışarak verilerin 
 düzenlenmesi, çeşitli makine öğrenmesi modellerinin eğitilmesi, çıktılarının 
 görselleştirilme işlemi yapılmaktadır. Öncelikle veri setinin temel özelliklerini 
 anlamak için keşifsel veri analizi (EDA) yapılıp, ardından eksik değerler, aykırı 
